@@ -361,7 +361,7 @@ const DrawMap = ({title, data, data2}) => {
         <svg ref={svgRef}></svg>
       </div>
       <h6 className="author">Created by Ammarul</h6>
-      <h6><a href="blank">Source Code</a></h6>
+      <h6><a href="https://github.com/mrlzchry/Choropleth-Map">Source Code</a></h6>
     </React.Fragment>
   )
 }
